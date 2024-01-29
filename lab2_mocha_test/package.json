@@ -1,0 +1,16 @@
+{
+  "name": "lab2_mocha_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Christian Paolo Casison",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^10.2.0"
+  }
+}
